@@ -29,3 +29,7 @@
 ## Contact:
 
 ![Screenshot 2025-03-23 220221](https://github.com/user-attachments/assets/706dc014-8a14-4259-8c4a-1d05533e829e)
+
+## Conclusion:
+
+This is a simple portfolio website built using HTML and CSS, showcasing personal details, skills, projects, and contact information in a clean and responsive design.
